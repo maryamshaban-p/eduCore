@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423627337574",
+    "project_id": "graduation-project-a8378",
+    "storage_bucket": "graduation-project-a8378.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423627337574:android:6ba75ea504b3f26473e2a7",
+        "android_client_info": {
+          "package_name": "com.example.edulink_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAubtlBbOwQ9jl-1Tm5MfOqbCwk8-51fUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
