@@ -142,7 +142,7 @@ class _HomeViewState extends State<_HomeView> {
                               itemCount: data.recentCourses.length,
                               itemBuilder: (context, i) {
                                 final course = data.recentCourses[i];
-                                const baseUrl = 'http://localhost:5000';
+                                const baseUrl = 'http://localhost:5132';
                                 final imageUrl = course.pictureUrl != null
                                     ? (course.pictureUrl!.startsWith('http')
                                         ? course.pictureUrl!

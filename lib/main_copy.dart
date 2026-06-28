@@ -61,8 +61,8 @@ class MyApp extends StatelessWidget {
               ScreenConfig.init(context);
               return child!;
             },
-            home: Splashscreen(),
-           //  home: LandingPage(),
+            //home: Splashscreen(),
+             home: LandingPage(),
             routes: {
               '/admin': (_) => const MainShell(),
               '/moderator': (_) => const ModratorDashboardScreen(),
